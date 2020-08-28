@@ -1,0 +1,10 @@
+file does not start with RIFF id
+Параметры запуска: A:\Progs\python_progs\ResponseRecognition\recognize.py --phone 89316744535 --stage 1 --filename A:\\Download\\SpeechExamples\\Sound_11528.wav --dbwrite 1 
+2020-08-28 19:44:13.378315
+------------------------------------------------------------
+
+file does not start with RIFF id
+Параметры запуска: A:\Progs\python_progs\ResponseRecognition\recognize.py --phone 89941279040 --stage 2 --filename A:\\Download\\SpeechExamples\\Sound_11528.wav --dbwrite 1 
+2020-08-28 19:44:13.784685
+------------------------------------------------------------
+
